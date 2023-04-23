@@ -1,0 +1,13 @@
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\bin\Release\BotanBingo.exe.config
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\bin\Release\BotanBingo.exe
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\bin\Release\BotanBingo.pdb
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.csproj.AssemblyReference.cache
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.BotanBoard.resources
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.Error.resources
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.Menu.resources
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.Properties.Resources.resources
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.csproj.GenerateResource.cache
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.csproj.CoreCompileInputs.cache
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.exe
+C:\Users\Isaiah\Desktop\BotanBingo\BotanBingo\obj\Release\BotanBingo.pdb

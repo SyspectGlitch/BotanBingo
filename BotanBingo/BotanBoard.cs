@@ -15,7 +15,8 @@ namespace BotanBingo
     {
         private List<string> botanisms = new List<string>();
         private int score;
-        static readonly string textFile = @"..\..\Assets\Botanisms.txt";//@"Assets\\botanisms.txt";
+        //static readonly string textFile = @"..\..\Assets\Botanisms.txt";//Debug
+        static readonly string textFile = @"Assets\Botanisms.txt";
         Button[] buttons = new Button[25];
 
         public BotanBoard()
@@ -161,9 +162,9 @@ namespace BotanBingo
             }
         }
 
-        private void space1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
     }
 }
