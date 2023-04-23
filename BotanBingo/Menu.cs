@@ -16,5 +16,13 @@ namespace BotanBingo
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //load botanboard
+            BotanBoard botanBoard = new BotanBoard();
+            botanBoard.Show();
+            this.Hide();
+        }
     }
 }
